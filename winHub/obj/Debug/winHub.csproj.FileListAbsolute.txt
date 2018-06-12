@@ -1,0 +1,10 @@
+C:\Users\Nathan\source\repos\winHub\winHub\bin\Debug\winHub.exe.config
+C:\Users\Nathan\source\repos\winHub\winHub\bin\Debug\winHub.exe
+C:\Users\Nathan\source\repos\winHub\winHub\bin\Debug\winHub.pdb
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.Form1.resources
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.Properties.Resources.resources
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.exe
+C:\Users\Nathan\source\repos\winHub\winHub\obj\Debug\winHub.pdb
